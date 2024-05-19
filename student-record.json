@@ -1,20 +1,20 @@
 [
-  {
-    "StudentID" : 201900000,
-    "Name" : "김아주",
-    "Major : "SoftWare",
-    "Score" : 80
-  },
-  {
-    "StudentID" : 202011221,
-    "Name" : "김생명",
-    "Major : "Biological",
-    "Score" : 85
-  },
-{
-    "StudentID" : 202311333,
-    "Name" : "김미디",
-    "Major : "Digital Media",
-    "Score" : 87
-  }
-]
+    {
+      "StudentID": 201900000,
+      "Name": "김아주",
+      "Major": "SoftWare",
+      "Score": 80
+    },
+    {
+      "StudentID": 202011221,
+      "Name": "김생명",
+      "Major": "Biological",
+      "Score": 85
+    },
+    {
+      "StudentID": 202311333,
+      "Name": "김미디",
+      "Major": "Digital Media",
+      "Score": 87
+    }
+  ]
